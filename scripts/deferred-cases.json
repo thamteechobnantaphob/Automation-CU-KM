@@ -1,0 +1,434 @@
+{
+  "TC-ADMC-06-07": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-ADMD-05-07": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-ADML-02-02": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-ADMR-03-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-ADMR-05-05": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-15: ทดสอบที่ UAT — ต้อง login ด้วยบัญชี CU NET ผู้ดูแลระบบบัญชีที่สองแล้วทำกับบัญชีตัวเอง (ยอมให้บัญชีนั้นถูกล็อก/หลุดสิทธิ์ได้); บน Dev ไม่มีบัญชีที่สอง และห้ามทดสอบกับ admin จริง"
+  },
+  "TC-ADMU-02-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-ADMU-02-04": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-03-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-ADMU-03-03": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-15: ทดสอบที่ UAT — ต้อง login ด้วยบัญชี CU NET ผู้ดูแลระบบบัญชีที่สองแล้วทำกับบัญชีตัวเอง (ยอมให้บัญชีนั้นถูกล็อก/หลุดสิทธิ์ได้); บน Dev ไม่มีบัญชีที่สอง และห้ามทดสอบกับ admin จริง"
+  },
+  "TC-ADMU-07-04": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-07-05": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-07-06": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-07-10": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-08-07": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-08-08": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-08-09": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-ADMU-08-11": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-15: ทดสอบที่ UAT — ต้อง login ด้วยบัญชี CU NET ผู้ดูแลระบบบัญชีที่สองแล้วทำกับบัญชีตัวเอง (ยอมให้บัญชีนั้นถูกล็อก/หลุดสิทธิ์ได้); บน Dev ไม่มีบัญชีที่สอง และห้ามทดสอบกับ admin จริง"
+  },
+  "TC-ADMU-08-12": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-15: ทดสอบที่ UAT — ต้อง login ด้วยบัญชี CU NET ผู้ดูแลระบบบัญชีที่สองแล้วทำกับบัญชีตัวเอง (ยอมให้บัญชีนั้นถูกล็อก/หลุดสิทธิ์ได้); บน Dev ไม่มีบัญชีที่สอง และห้ามทดสอบกับ admin จริง"
+  },
+  "TC-AUTH-02-07": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-BP-13-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-BP-13-04": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FALB-05-06": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FFAQ-05-16": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FFTR-05-05": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FKNO-11-04": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-02": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-03": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-04": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-05": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-06": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-07": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-08": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-09": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-10": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-11": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-12": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-13": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-14": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-15": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-16": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-17": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-18": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-20": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-22": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-23": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-24": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-25": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-26": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-27": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-28": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-29": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-03-30": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-02": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-03": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-04": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-05": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-06": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-07": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-04-08": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FROL-05-05": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-15: ทดสอบที่ UAT — ต้อง login ด้วยบัญชี CU NET ผู้ดูแลระบบบัญชีที่สองแล้วทำกับบัญชีตัวเอง (ยอมให้บัญชีนั้นถูกล็อก/หลุดสิทธิ์ได้); บน Dev ไม่มีบัญชีที่สอง และห้ามทดสอบกับ admin จริง"
+  },
+  "TC-FUSR-01-06": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FUSR-06-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FUSR-06-02": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FUSR-06-06": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FUSR-06-08": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FUSR-07-01": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-03": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-05": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-06": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-11": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-12": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-13": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-17": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-07-18": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-08-05": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-15: ทดสอบที่ UAT — ต้อง login ด้วยบัญชี CU NET ผู้ดูแลระบบบัญชีที่สองแล้วทำกับบัญชีตัวเอง (ยอมให้บัญชีนั้นถูกล็อก/หลุดสิทธิ์ได้); บน Dev ไม่มีบัญชีที่สอง และห้ามทดสอบกับ admin จริง"
+  },
+  "TC-FUSR-08-06": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-15: ทดสอบที่ UAT — ต้อง login ด้วยบัญชี CU NET ผู้ดูแลระบบบัญชีที่สองแล้วทำกับบัญชีตัวเอง (ยอมให้บัญชีนั้นถูกล็อก/หลุดสิทธิ์ได้); บน Dev ไม่มีบัญชีที่สอง และห้ามทดสอบกับ admin จริง"
+  },
+  "TC-FUSR-09-05": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FUSR-10-02": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-FUSR-10-05": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-KNOW-14-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-KNOW-14-04": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-NEWS-13-01": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-NEWS-13-04": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-NFR-02-03": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-NFR-05-05": {
+    "status": "Manual (QA)",
+    "reason": "QA 2026-10-07: Auto: M — QA ทดสอบเองรอบสุดท้าย"
+  },
+  "TC-NFR-05-07": {
+    "status": "Manual (QA)",
+    "reason": "QA 2026-10-07: Auto: M — QA ทดสอบเองรอบสุดท้าย"
+  },
+  "TC-SEC-03-02": {
+    "status": "On hold (UAT)",
+    "reason": "QA 2026-10-07: ต้องใช้บัญชี CU NET ที่ไม่ใช่ admin login ได้ — รอทดสอบที่ server จุฬา (UAT)"
+  },
+  "TC-SEC-04-01": {
+    "status": "Manual (QA)",
+    "reason": "QA 2026-10-07: Auto: M — QA ทดสอบเองรอบสุดท้าย"
+  },
+  "TC-SEC-04-02": {
+    "status": "Manual (QA)",
+    "reason": "QA 2026-10-07: Auto: M — QA ทดสอบเองรอบสุดท้าย"
+  },
+  "TC-SEC-04-04": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-SEC-04-05": {
+    "status": "Deferred (UAT)",
+    "reason": "QA 2026-10-07: ยกเลิกไปก่อน — ระบบล็อกอินผ่าน LDAP (DEF-49); หาวิธีทดสอบบน server จุฬาตอนขึ้น UAT"
+  },
+  "TC-FEC-02-05": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-FEN-03-05": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-FES-02-16": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-ADMD-01-01": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-ADMD-04-06": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-ADMC-06-05": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-ADMG-04-04": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-ADMU-08-14": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-ADML-03-04": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-ADML-04-04": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-NFR-05-06": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-NFR-06-04": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-NFR-07-02": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-FFTR-04-05": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  },
+  "TC-FALB-04-04": {
+    "status": "Deferred (UAT)",
+    "reason": "ผู้ใช้ 2026-10-08: เคสปริมาณข้อมูลมาก (business rule) — ต้องสร้างข้อมูลจำนวนมาก ไม่ทำบน Dev ที่ใช้ร่วมกัน ทดสอบบน UAT / Manual"
+  }
+}

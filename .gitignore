@@ -1,0 +1,22 @@
+node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Archived run evidence (screenshots/videos contain real data, e.g. user emails)
+/evidence/
+
+# Env / secrets
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+# เอกสารโครงการ
+Software Requirement Specification*.docx
+*.xlsx
